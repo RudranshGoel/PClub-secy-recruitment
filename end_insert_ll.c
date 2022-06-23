@@ -35,6 +35,8 @@ struct node{
     while(cur!=NULL){
         printf("%d ", cur->n);
         cur=cur->next;
+
+        
     }
     printf("\n");
  }
