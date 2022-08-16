@@ -1,0 +1,2393 @@
+[
+	{
+		"Field": "Data",
+		"Name of organisation": "SeaQL",
+		"Tech Stack": "\"mysql",
+		"Topics": " postgresql"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "Responsible AI and Human Centred Technology",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "R project for statistical computing",
+		"Tech Stack": "\"c",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "Society for Arts and Technology (SAT)",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "Wellcome Sanger Tree of Life",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "DBpedia",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "Center for Translational Data Science",
+		"Tech Stack": "\"python",
+		"Topics": " aws\""
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "Ceph",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "moja global",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "Machine Learning for Science (ML4SCI)",
+		"Tech Stack": "\"python",
+		"Topics": " machine learning"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "Open3D team",
+		"Tech Stack": "\"python",
+		"Topics": " c++"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "Our World In Data",
+		"Tech Stack": "\"python",
+		"Topics": " mysql"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "Liquid Galaxy project",
+		"Tech Stack": "\"python",
+		"Topics": " linux"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "OpenCV",
+		"Tech Stack": "\"python",
+		"Topics": " c++"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "Red Hen Lab",
+		"Tech Stack": "\"python",
+		"Topics": " machine learning"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "Forschungszentrum Jülich",
+		"Tech Stack": "\"python",
+		"Topics": " mpi"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "Mathesar",
+		"Tech Stack": "\"python",
+		"Topics": " postgresql"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "PEcAn Project",
+		"Tech Stack": "\"r",
+		"Topics": " docker"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "CNCF",
+		"Tech Stack": "\"prometheus",
+		"Topics": " kubernetes"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "Software Heritage",
+		"Tech Stack": "\"python",
+		"Topics": " postgresql"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "MetaBrainz Foundation Inc",
+		"Tech Stack": "\"python",
+		"Topics": " react"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "OpenAFS",
+		"Tech Stack": "\"c",
+		"Topics": " python"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "sktime",
+		"Tech Stack": "\"python",
+		"Topics": " github"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "mlpack",
+		"Tech Stack": "\"c++",
+		"Topics": " C++ template metaprogramming\""
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "The Julia Language",
+		"Tech Stack": "\"machine learning",
+		"Topics": " julia"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "Cuneiform Digital Library Initiative (CDLI)",
+		"Tech Stack": "\"mysql",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "MDAnalysis",
+		"Tech Stack": "\"python",
+		"Topics": " cython"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "52°North Spatial Information Research GmbH",
+		"Tech Stack": "\"javascript",
+		"Topics": " android"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "Polypheny",
+		"Tech Stack": "\"javascript",
+		"Topics": " java"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "The Mifos Initiative",
+		"Tech Stack": "\"android",
+		"Topics": " java"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "MariaDB",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "Kart Project",
+		"Tech Stack": "\"python",
+		"Topics": " c++"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "PostgreSQL",
+		"Tech Stack": "\"c",
+		"Topics": " python"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "Semi Technologies",
+		"Tech Stack": "\"python",
+		"Topics": " machine learning"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "syslog-ng",
+		"Tech Stack": "\"c",
+		"Topics": " python"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "TensorFlow",
+		"Tech Stack": "\"machine learning",
+		"Topics": " tensorflow"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "Internet Health Report",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "Orcasound",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "NumFOCUS",
+		"Tech Stack": "\"python",
+		"Topics": " c++"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "CHAOSS",
+		"Tech Stack": "\"python",
+		"Topics": " postgresql"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "Performance Co-Pilot",
+		"Tech Stack": "\"c",
+		"Topics": " grafana"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "OpenStreetMap",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "Open Genome Informatics",
+		"Tech Stack": "\"python",
+		"Topics": " mysql"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "LibreHealth",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "Mayor's Office of New Urban Mechanics",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "Genome Assembly and Annotation",
+		"Tech Stack": "\"python",
+		"Topics": " mysql"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "JBoss Community",
+		"Tech Stack": "\"java",
+		"Topics": " rust"
+	},
+	{
+		"Field": "Data",
+		"Name of organisation": "IOOS",
+		"Tech Stack": "\"python",
+		"Topics": " ocean science\""
+	},
+	{
+		"Field": "Development tools",
+		"Name of organisation": "GNU Compiler Collection (GCC)",
+		"Tech Stack": "\"c/c++",
+		"Topics": " gnu make"
+	},
+	{
+		"Field": "Development tools",
+		"Name of organisation": "GNOME Foundation",
+		"Tech Stack": "\"c",
+		"Topics": " linux"
+	},
+	{
+		"Field": "Development tools",
+		"Name of organisation": "The ENIGMA Team",
+		"Tech Stack": "\"opengl",
+		"Topics": " c++"
+	},
+	{
+		"Field": "Development tools",
+		"Name of organisation": "MIT App Inventor",
+		"Tech Stack": "\"javascript",
+		"Topics": " java"
+	},
+	{
+		"Field": "Development tools",
+		"Name of organisation": "Homebrew",
+		"Tech Stack": "\"linux",
+		"Topics": " ruby"
+	},
+	{
+		"Field": "Development tools",
+		"Name of organisation": "moja global",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Development tools",
+		"Name of organisation": "OpenMRS",
+		"Tech Stack": "\"mysql",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Development tools",
+		"Name of organisation": "Software Heritage",
+		"Tech Stack": "\"python",
+		"Topics": " postgresql"
+	},
+	{
+		"Field": "Development tools",
+		"Name of organisation": "strace",
+		"Tech Stack": "\"c",
+		"Topics": " shell"
+	},
+	{
+		"Field": "Development tools",
+		"Name of organisation": "International Catrobat Association",
+		"Tech Stack": "\"javascript",
+		"Topics": " android"
+	},
+	{
+		"Field": "Development tools",
+		"Name of organisation": "Haskell.org",
+		"Tech Stack": "\"haskell",
+		"Topics": " ghc\""
+	},
+	{
+		"Field": "Development tools",
+		"Name of organisation": "AboutCode",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Development tools",
+		"Name of organisation": "Neutralinojs",
+		"Tech Stack": "\"c",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Development tools",
+		"Name of organisation": "Jenkins X",
+		"Tech Stack": "\"golang",
+		"Topics": " kubernetes"
+	},
+	{
+		"Field": "Development tools",
+		"Name of organisation": "Git",
+		"Tech Stack": "\"shell script",
+		"Topics": " git"
+	},
+	{
+		"Field": "Development tools",
+		"Name of organisation": "Keptn",
+		"Tech Stack": "\"golang",
+		"Topics": " kubernetes"
+	},
+	{
+		"Field": "Development tools",
+		"Name of organisation": "The JPF team",
+		"Tech Stack": "\"android",
+		"Topics": " java"
+	},
+	{
+		"Field": "Development tools",
+		"Name of organisation": "Jenkins",
+		"Tech Stack": "\"javascript",
+		"Topics": " java"
+	},
+	{
+		"Field": "Development tools",
+		"Name of organisation": "checkstyle",
+		"Tech Stack": "\"java",
+		"Topics": " antlr\""
+	},
+	{
+		"Field": "Development tools",
+		"Name of organisation": "OpenVINO Toolkit",
+		"Tech Stack": "\"python",
+		"Topics": " c++"
+	},
+	{
+		"Field": "Development tools",
+		"Name of organisation": "LLVM Compiler Infrastructure",
+		"Tech Stack": "\"llvm",
+		"Topics": " c++"
+	},
+	{
+		"Field": "Development tools",
+		"Name of organisation": "SPDX",
+		"Tech Stack": "\"python",
+		"Topics": " java"
+	},
+	{
+		"Field": "Development tools",
+		"Name of organisation": "openSUSE Project",
+		"Tech Stack": "\"python",
+		"Topics": " linux"
+	},
+	{
+		"Field": "Development tools",
+		"Name of organisation": "GitLab",
+		"Tech Stack": "\"javascript",
+		"Topics": " ruby on rails"
+	},
+	{
+		"Field": "Development tools",
+		"Name of organisation": "Scala Center",
+		"Tech Stack": "\"scala",
+		"Topics": " scala.js"
+	},
+	{
+		"Field": "Development tools",
+		"Name of organisation": "QEMU",
+		"Tech Stack": "\"c",
+		"Topics": " python"
+	},
+	{
+		"Field": "Development tools",
+		"Name of organisation": "Robolectric",
+		"Tech Stack": "\"android",
+		"Topics": " java"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "SCoRe Lab",
+		"Tech Stack": "\"python",
+		"Topics": " java"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "omegaUp",
+		"Tech Stack": "\"python",
+		"Topics": " mysql"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "Open Food Facts",
+		"Tech Stack": "\"python",
+		"Topics": " machine learning"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "libvirt",
+		"Tech Stack": "\"kvm",
+		"Topics": " hypervisor"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "Debian",
+		"Tech Stack": "\"c",
+		"Topics": " python"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "ScummVM",
+		"Tech Stack": "\"opengl",
+		"Topics": " lua"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "JabRef e.V.",
+		"Tech Stack": "\"java",
+		"Topics": " javafx"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "Learning Equality",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "Open Technologies Alliance - GFOSS",
+		"Tech Stack": "\"javascript",
+		"Topics": " c/c++"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "Open Robotics",
+		"Tech Stack": "\"ros",
+		"Topics": " gazebo"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "MuseScore",
+		"Tech Stack": "\"c++",
+		"Topics": " qt"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "CCExtractor Development",
+		"Tech Stack": "\"c",
+		"Topics": " linux"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "Mathesar",
+		"Tech Stack": "\"python",
+		"Topics": " postgresql"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "ArduPilot",
+		"Tech Stack": "\"python",
+		"Topics": " lua"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "Submitty",
+		"Tech Stack": "\"python",
+		"Topics": " postgresql"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "Inkscape",
+		"Tech Stack": "\"python",
+		"Topics": " c++"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "Joomla!",
+		"Tech Stack": "\"mysql",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "KDE Community",
+		"Tech Stack": "\"c++",
+		"Topics": " qt"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "Blender Foundation",
+		"Tech Stack": "\"c",
+		"Topics": " python"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "Organic Maps",
+		"Tech Stack": "\"android",
+		"Topics": " java"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "Purr Data",
+		"Tech Stack": "\"c",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "rocket.chat",
+		"Tech Stack": "\"javascript",
+		"Topics": " raspberry pi"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "Audacity",
+		"Tech Stack": "\"c++",
+		"Topics": " qt"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "AnkiDroid",
+		"Tech Stack": "\"android",
+		"Topics": " java"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "GNU Image Manipulation Program",
+		"Tech Stack": "\"c",
+		"Topics": " GEGL\""
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "LibreOffice",
+		"Tech Stack": "\"python",
+		"Topics": " java"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "The Mifos Initiative",
+		"Tech Stack": "\"android",
+		"Topics": " java"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "Sugar Labs",
+		"Tech Stack": "\"python",
+		"Topics": " gtk"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "CircuitVerse.org",
+		"Tech Stack": "\"javascript",
+		"Topics": " rails"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "Joplin",
+		"Tech Stack": "\"javascript",
+		"Topics": " react"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "Open Chemistry",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "Kodi",
+		"Tech Stack": "\"python",
+		"Topics": " opengl"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "OpenWISP",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "LEAP Encryption Access Project",
+		"Tech Stack": "\"java",
+		"Topics": " golang"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "AOSSIE",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "Oppia Foundation",
+		"Tech Stack": "\"python",
+		"Topics": " android"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "Zulip",
+		"Tech Stack": "\"python",
+		"Topics": " django"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "Matrix.org",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "The Palisadoes Foundation",
+		"Tech Stack": "\"mongodb",
+		"Topics": " node.js"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "Xfce",
+		"Tech Stack": "\"c",
+		"Topics": " gtk\""
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "OpenStreetMap",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "Haiku",
+		"Tech Stack": "\"c++",
+		"Topics": " posix"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "Godot Engine",
+		"Tech Stack": "\"opengl",
+		"Topics": " c++"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "Mayor's Office of New Urban Mechanics",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "BRL-CAD",
+		"Tech Stack": "\"python",
+		"Topics": " c/c++"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "Electron",
+		"Tech Stack": "\"javascript",
+		"Topics": " node.js"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "Mixxx",
+		"Tech Stack": "\"javascript",
+		"Topics": " c++"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "VideoLAN",
+		"Tech Stack": "\"c",
+		"Topics": " c++"
+	},
+	{
+		"Field": "End user applications",
+		"Name of organisation": "Flashrom",
+		"Tech Stack": "\"c",
+		"Topics": " x86"
+	},
+	{
+		"Field": "Infrastructure and cloud",
+		"Name of organisation": "libvirt",
+		"Tech Stack": "\"kvm",
+		"Topics": " hypervisor"
+	},
+	{
+		"Field": "Infrastructure and cloud",
+		"Name of organisation": "MetaCall",
+		"Tech Stack": "\"python",
+		"Topics": " c++"
+	},
+	{
+		"Field": "Infrastructure and cloud",
+		"Name of organisation": "Ceph",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Infrastructure and cloud",
+		"Name of organisation": "Monado",
+		"Tech Stack": "\"opengl",
+		"Topics": " vulkan"
+	},
+	{
+		"Field": "Infrastructure and cloud",
+		"Name of organisation": "Unikraft",
+		"Tech Stack": "\"c",
+		"Topics": " python"
+	},
+	{
+		"Field": "Infrastructure and cloud",
+		"Name of organisation": "Open Robotics",
+		"Tech Stack": "\"ros",
+		"Topics": " gazebo"
+	},
+	{
+		"Field": "Infrastructure and cloud",
+		"Name of organisation": "CNCF",
+		"Tech Stack": "\"prometheus",
+		"Topics": " kubernetes"
+	},
+	{
+		"Field": "Infrastructure and cloud",
+		"Name of organisation": "OpenAFS",
+		"Tech Stack": "\"c",
+		"Topics": " python"
+	},
+	{
+		"Field": "Infrastructure and cloud",
+		"Name of organisation": "Jenkins X",
+		"Tech Stack": "\"golang",
+		"Topics": " kubernetes"
+	},
+	{
+		"Field": "Infrastructure and cloud",
+		"Name of organisation": "PowerDNS",
+		"Tech Stack": "\"c++",
+		"Topics": " DNS\""
+	},
+	{
+		"Field": "Infrastructure and cloud",
+		"Name of organisation": "BeagleBoard.org",
+		"Tech Stack": "\"linux",
+		"Topics": " fpga"
+	},
+	{
+		"Field": "Infrastructure and cloud",
+		"Name of organisation": "Keptn",
+		"Tech Stack": "\"golang",
+		"Topics": " kubernetes"
+	},
+	{
+		"Field": "Infrastructure and cloud",
+		"Name of organisation": "Eclipse Foundation",
+		"Tech Stack": "\"java",
+		"Topics": " che"
+	},
+	{
+		"Field": "Infrastructure and cloud",
+		"Name of organisation": "CHIPS Alliance",
+		"Tech Stack": "\"fpga",
+		"Topics": " chisel"
+	},
+	{
+		"Field": "Infrastructure and cloud",
+		"Name of organisation": "CRIU",
+		"Tech Stack": "\"c",
+		"Topics": " python"
+	},
+	{
+		"Field": "Infrastructure and cloud",
+		"Name of organisation": "GitLab",
+		"Tech Stack": "\"javascript",
+		"Topics": " ruby on rails"
+	},
+	{
+		"Field": "Infrastructure and cloud",
+		"Name of organisation": "TianoCore",
+		"Tech Stack": "\"c",
+		"Topics": " python"
+	},
+	{
+		"Field": "Infrastructure and cloud",
+		"Name of organisation": "freifunk",
+		"Tech Stack": "\"c",
+		"Topics": " python"
+	},
+	{
+		"Field": "Infrastructure and cloud",
+		"Name of organisation": "FRRouting",
+		"Tech Stack": "\"c",
+		"Topics": " linux"
+	},
+	{
+		"Field": "Infrastructure and cloud",
+		"Name of organisation": "Intel Video and Audio for Linux",
+		"Tech Stack": "\"c/c++",
+		"Topics": " opengl"
+	},
+	{
+		"Field": "Infrastructure and cloud",
+		"Name of organisation": "Free and Open Source Silicon Foundation",
+		"Tech Stack": "\"verilog",
+		"Topics": " risc-v"
+	},
+	{
+		"Field": "Infrastructure and cloud",
+		"Name of organisation": "QEMU",
+		"Tech Stack": "\"c",
+		"Topics": " python"
+	},
+	{
+		"Field": "Infrastructure and cloud",
+		"Name of organisation": "XMPP Standards Foundation",
+		"Tech Stack": "\"javascript",
+		"Topics": " java"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Society for Arts and Technology (SAT)",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "FFmpeg",
+		"Tech Stack": "\"c",
+		"Topics": " git"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Monado",
+		"Tech Stack": "\"opengl",
+		"Topics": " vulkan"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Open3D team",
+		"Tech Stack": "\"python",
+		"Topics": " c++"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "MuseScore",
+		"Tech Stack": "\"c++",
+		"Topics": " qt"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Liquid Galaxy project",
+		"Tech Stack": "\"python",
+		"Topics": " linux"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "OpenCV",
+		"Tech Stack": "\"python",
+		"Topics": " c++"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "CCExtractor Development",
+		"Tech Stack": "\"c",
+		"Topics": " linux"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Red Hen Lab",
+		"Tech Stack": "\"python",
+		"Topics": " machine learning"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "X.Org Foundation",
+		"Tech Stack": "\"opengl",
+		"Topics": " vulkan"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Inkscape",
+		"Tech Stack": "\"python",
+		"Topics": " c++"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "FreeType",
+		"Tech Stack": "\"c",
+		"Topics": " autotools"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Blender Foundation",
+		"Tech Stack": "\"c",
+		"Topics": " python"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Purr Data",
+		"Tech Stack": "\"c",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Audacity",
+		"Tech Stack": "\"c++",
+		"Topics": " qt"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "GNU Image Manipulation Program",
+		"Tech Stack": "\"c",
+		"Topics": " GEGL\""
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "GRAME",
+		"Tech Stack": "\"c",
+		"Topics": " python"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Synfig",
+		"Tech Stack": "\"python",
+		"Topics": " c++"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "libcamera",
+		"Tech Stack": "\"c/c++",
+		"Topics": " linux kernel"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Kodi",
+		"Tech Stack": "\"python",
+		"Topics": " opengl"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Oppia Foundation",
+		"Tech Stack": "\"python",
+		"Topics": " android"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Jitsi",
+		"Tech Stack": "\"javascript",
+		"Topics": " java"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Godot Engine",
+		"Tech Stack": "\"opengl",
+		"Topics": " c++"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "BRL-CAD",
+		"Tech Stack": "\"python",
+		"Topics": " c/c++"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Intel Video and Audio for Linux",
+		"Tech Stack": "\"c/c++",
+		"Topics": " opengl"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "VideoLAN",
+		"Tech Stack": "\"c",
+		"Topics": " c++"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "SageMath",
+		"Tech Stack": "\"python",
+		"Topics": " cython\""
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Responsible AI and Human Centred Technology",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "R project for statistical computing",
+		"Tech Stack": "\"c",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Open Food Facts",
+		"Tech Stack": "\"python",
+		"Topics": " machine learning"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Wellcome Sanger Tree of Life",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "DBpedia",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "TARDIS RT Collaboration",
+		"Tech Stack": "\"python",
+		"Topics": " numba"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Center for Translational Data Science",
+		"Tech Stack": "\"python",
+		"Topics": " aws\""
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "\"Department of Biomedical Informatics",
+		"Tech Stack": " Emory University\"",
+		"Topics": "\"python"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "JabRef e.V.",
+		"Tech Stack": "\"java",
+		"Topics": " javafx"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "OpenAstronomy",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Machine Learning for Science (ML4SCI)",
+		"Tech Stack": "\"python",
+		"Topics": " machine learning"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "MoveIt",
+		"Tech Stack": "\"ros",
+		"Topics": " c++\""
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Our World In Data",
+		"Tech Stack": "\"python",
+		"Topics": " mysql"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Forschungszentrum Jülich",
+		"Tech Stack": "\"python",
+		"Topics": " mpi"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "INCF",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "PEcAn Project",
+		"Tech Stack": "\"r",
+		"Topics": " docker"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "GNU Octave",
+		"Tech Stack": "\"c++",
+		"Topics": " hg\""
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "ArduPilot",
+		"Tech Stack": "\"python",
+		"Topics": " lua"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Public Lab",
+		"Tech Stack": "\"javascript",
+		"Topics": " ruby on rails\""
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "sktime",
+		"Tech Stack": "\"python",
+		"Topics": " github"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "mlpack",
+		"Tech Stack": "\"c++",
+		"Topics": " C++ template metaprogramming\""
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "National Resource for Network Biology (NRNB)",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Cuneiform Digital Library Initiative (CDLI)",
+		"Tech Stack": "\"mysql",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "MDAnalysis",
+		"Tech Stack": "\"python",
+		"Topics": " cython"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "52°North Spatial Information Research GmbH",
+		"Tech Stack": "\"javascript",
+		"Topics": " android"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "CGAL Project",
+		"Tech Stack": "\"c++",
+		"Topics": " qt\""
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "BeagleBoard.org",
+		"Tech Stack": "\"linux",
+		"Topics": " fpga"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Open Bioinformatics Foundation (OBF)",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "CERN-HSF",
+		"Tech Stack": "\"python",
+		"Topics": " c/c++"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "CircuitVerse.org",
+		"Tech Stack": "\"javascript",
+		"Topics": " rails"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Semi Technologies",
+		"Tech Stack": "\"python",
+		"Topics": " machine learning"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Open Chemistry",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Global Alliance for Genomics and Health",
+		"Tech Stack": "\"python",
+		"Topics": " postgresql"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "MBDyn",
+		"Tech Stack": "\"python",
+		"Topics": " c++\""
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "The ns-3 Network Simulator Project",
+		"Tech Stack": "\"python",
+		"Topics": " django"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Center for Research in Open Source Software (CROSS)",
+		"Tech Stack": "\"python",
+		"Topics": " c/c++"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "TensorFlow",
+		"Tech Stack": "\"machine learning",
+		"Topics": " tensorflow"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Internet Health Report",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Orcasound",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "NumFOCUS",
+		"Tech Stack": "\"python",
+		"Topics": " c++"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "SymPy",
+		"Tech Stack": "\"python",
+		"Topics": " numpy"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "RTEMS Project",
+		"Tech Stack": "\"python",
+		"Topics": " c/c++"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "LibreCube Initiative",
+		"Tech Stack": "\"python",
+		"Topics": " mongodb"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "cBioPortal for Cancer Genomics",
+		"Tech Stack": "\"mysql",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Open Genome Informatics",
+		"Tech Stack": "\"python",
+		"Topics": " mysql"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "LibreHealth",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "MZmine",
+		"Tech Stack": "\"java",
+		"Topics": " javafx\""
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "GeomScale",
+		"Tech Stack": "\"python",
+		"Topics": " c++"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "GNU Radio",
+		"Tech Stack": "\"python",
+		"Topics": " c++"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Genome Assembly and Annotation",
+		"Tech Stack": "\"python",
+		"Topics": " mysql"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "RADAR-base",
+		"Tech Stack": "\"java",
+		"Topics": " kotlin"
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "IOOS",
+		"Tech Stack": "\"python",
+		"Topics": " ocean science\""
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "Ste||ar group",
+		"Tech Stack": "\"c++",
+		"Topics": " hpc\""
+	},
+	{
+		"Field": "Media",
+		"Name of organisation": "GNSS-SDR",
+		"Tech Stack": "\"c",
+		"Topics": " c++"
+	},
+	{
+		"Field": "Operating systems",
+		"Name of organisation": "GNOME Foundation",
+		"Tech Stack": "\"c",
+		"Topics": " linux"
+	},
+	{
+		"Field": "Operating systems",
+		"Name of organisation": "The FreeBSD Project",
+		"Tech Stack": "\"c",
+		"Topics": " llvm"
+	},
+	{
+		"Field": "Operating systems",
+		"Name of organisation": "coreboot",
+		"Tech Stack": "\"c",
+		"Topics": " assembly"
+	},
+	{
+		"Field": "Operating systems",
+		"Name of organisation": "Debian",
+		"Tech Stack": "\"c",
+		"Topics": " python"
+	},
+	{
+		"Field": "Operating systems",
+		"Name of organisation": "Unikraft",
+		"Tech Stack": "\"c",
+		"Topics": " python"
+	},
+	{
+		"Field": "Operating systems",
+		"Name of organisation": "Gentoo Foundation",
+		"Tech Stack": "\"c",
+		"Topics": " python"
+	},
+	{
+		"Field": "Operating systems",
+		"Name of organisation": "The NetBSD Foundation",
+		"Tech Stack": "\"c",
+		"Topics": " shell script"
+	},
+	{
+		"Field": "Operating systems",
+		"Name of organisation": "CRIU",
+		"Tech Stack": "\"c",
+		"Topics": " python"
+	},
+	{
+		"Field": "Operating systems",
+		"Name of organisation": "openSUSE Project",
+		"Tech Stack": "\"python",
+		"Topics": " linux"
+	},
+	{
+		"Field": "Operating systems",
+		"Name of organisation": "The Linux Foundation",
+		"Tech Stack": "\"c",
+		"Topics": " linux"
+	},
+	{
+		"Field": "Operating systems",
+		"Name of organisation": "TianoCore",
+		"Tech Stack": "\"c",
+		"Topics": " python"
+	},
+	{
+		"Field": "Operating systems",
+		"Name of organisation": "RTEMS Project",
+		"Tech Stack": "\"python",
+		"Topics": " c/c++"
+	},
+	{
+		"Field": "Operating systems",
+		"Name of organisation": "ReactOS Foundation",
+		"Tech Stack": "\"c",
+		"Topics": " c++"
+	},
+	{
+		"Field": "Operating systems",
+		"Name of organisation": "Xfce",
+		"Tech Stack": "\"c",
+		"Topics": " gtk\""
+	},
+	{
+		"Field": "Operating systems",
+		"Name of organisation": "Performance Co-Pilot",
+		"Tech Stack": "\"c",
+		"Topics": " grafana"
+	},
+	{
+		"Field": "Operating systems",
+		"Name of organisation": "Chromium",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Operating systems",
+		"Name of organisation": "Haiku",
+		"Tech Stack": "\"c++",
+		"Topics": " posix"
+	},
+	{
+		"Field": "Operating systems",
+		"Name of organisation": "freifunk",
+		"Tech Stack": "\"c",
+		"Topics": " python"
+	},
+	{
+		"Field": "Operating systems",
+		"Name of organisation": "Robolectric",
+		"Tech Stack": "\"android",
+		"Topics": " java"
+	},
+	{
+		"Field": "Operating systems",
+		"Name of organisation": "Flashrom",
+		"Tech Stack": "\"c",
+		"Topics": " x86"
+	},
+	{
+		"Field": "Programming languages",
+		"Name of organisation": "SeaQL",
+		"Tech Stack": "\"mysql",
+		"Topics": " postgresql"
+	},
+	{
+		"Field": "Programming languages",
+		"Name of organisation": "Python Software Foundation",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Programming languages",
+		"Name of organisation": "GNU Compiler Collection (GCC)",
+		"Tech Stack": "\"c/c++",
+		"Topics": " gnu make"
+	},
+	{
+		"Field": "Programming languages",
+		"Name of organisation": "The ENIGMA Team",
+		"Tech Stack": "\"opengl",
+		"Topics": " c++"
+	},
+	{
+		"Field": "Programming languages",
+		"Name of organisation": "Ruby",
+		"Tech Stack": "\"ruby on rails",
+		"Topics": " ruby"
+	},
+	{
+		"Field": "Programming languages",
+		"Name of organisation": "MetaCall",
+		"Tech Stack": "\"python",
+		"Topics": " c++"
+	},
+	{
+		"Field": "Programming languages",
+		"Name of organisation": "Homebrew",
+		"Tech Stack": "\"linux",
+		"Topics": " ruby"
+	},
+	{
+		"Field": "Programming languages",
+		"Name of organisation": "OpenMRS",
+		"Tech Stack": "\"mysql",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Programming languages",
+		"Name of organisation": "GNU Octave",
+		"Tech Stack": "\"c++",
+		"Topics": " hg\""
+	},
+	{
+		"Field": "Programming languages",
+		"Name of organisation": "International Catrobat Association",
+		"Tech Stack": "\"javascript",
+		"Topics": " android"
+	},
+	{
+		"Field": "Programming languages",
+		"Name of organisation": "Haskell.org",
+		"Tech Stack": "\"haskell",
+		"Topics": " ghc\""
+	},
+	{
+		"Field": "Programming languages",
+		"Name of organisation": "FreeType",
+		"Tech Stack": "\"c",
+		"Topics": " autotools"
+	},
+	{
+		"Field": "Programming languages",
+		"Name of organisation": "The Julia Language",
+		"Tech Stack": "\"machine learning",
+		"Topics": " julia"
+	},
+	{
+		"Field": "Programming languages",
+		"Name of organisation": "Git",
+		"Tech Stack": "\"shell script",
+		"Topics": " git"
+	},
+	{
+		"Field": "Programming languages",
+		"Name of organisation": "Sugar Labs",
+		"Tech Stack": "\"python",
+		"Topics": " gtk"
+	},
+	{
+		"Field": "Programming languages",
+		"Name of organisation": "GRAME",
+		"Tech Stack": "\"c",
+		"Topics": " python"
+	},
+	{
+		"Field": "Programming languages",
+		"Name of organisation": "The JPF team",
+		"Tech Stack": "\"android",
+		"Topics": " java"
+	},
+	{
+		"Field": "Programming languages",
+		"Name of organisation": "Eclipse Foundation",
+		"Tech Stack": "\"java",
+		"Topics": " che"
+	},
+	{
+		"Field": "Programming languages",
+		"Name of organisation": "Jenkins",
+		"Tech Stack": "\"javascript",
+		"Topics": " java"
+	},
+	{
+		"Field": "Programming languages",
+		"Name of organisation": "The NetBSD Foundation",
+		"Tech Stack": "\"c",
+		"Topics": " shell script"
+	},
+	{
+		"Field": "Programming languages",
+		"Name of organisation": "CHIPS Alliance",
+		"Tech Stack": "\"fpga",
+		"Topics": " chisel"
+	},
+	{
+		"Field": "Programming languages",
+		"Name of organisation": "checkstyle",
+		"Tech Stack": "\"java",
+		"Topics": " antlr\""
+	},
+	{
+		"Field": "Programming languages",
+		"Name of organisation": "LLVM Compiler Infrastructure",
+		"Tech Stack": "\"llvm",
+		"Topics": " c++"
+	},
+	{
+		"Field": "Programming languages",
+		"Name of organisation": "Swift",
+		"Tech Stack": "\"c++",
+		"Topics": " cmake"
+	},
+	{
+		"Field": "Programming languages",
+		"Name of organisation": "Fortran-lang",
+		"Tech Stack": "\"python",
+		"Topics": " c++"
+	},
+	{
+		"Field": "Programming languages",
+		"Name of organisation": "Scala Center",
+		"Tech Stack": "\"scala",
+		"Topics": " scala.js"
+	},
+	{
+		"Field": "Programming languages",
+		"Name of organisation": "Processing Foundation",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Programming languages",
+		"Name of organisation": "Dart",
+		"Tech Stack": "\"flutter",
+		"Topics": " dart\""
+	},
+	{
+		"Field": "Programming languages",
+		"Name of organisation": "Ste||ar group",
+		"Tech Stack": "\"c++",
+		"Topics": " hpc\""
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "SageMath",
+		"Tech Stack": "\"python",
+		"Topics": " cython\""
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "Responsible AI and Human Centred Technology",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "R project for statistical computing",
+		"Tech Stack": "\"c",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "Open Food Facts",
+		"Tech Stack": "\"python",
+		"Topics": " machine learning"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "Wellcome Sanger Tree of Life",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "DBpedia",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "TARDIS RT Collaboration",
+		"Tech Stack": "\"python",
+		"Topics": " numba"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "Center for Translational Data Science",
+		"Tech Stack": "\"python",
+		"Topics": " aws\""
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "\"Department of Biomedical Informatics",
+		"Tech Stack": " Emory University\"",
+		"Topics": "\"python"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "JabRef e.V.",
+		"Tech Stack": "\"java",
+		"Topics": " javafx"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "OpenAstronomy",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "Machine Learning for Science (ML4SCI)",
+		"Tech Stack": "\"python",
+		"Topics": " machine learning"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "MoveIt",
+		"Tech Stack": "\"ros",
+		"Topics": " c++\""
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "Our World In Data",
+		"Tech Stack": "\"python",
+		"Topics": " mysql"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "Forschungszentrum Jülich",
+		"Tech Stack": "\"python",
+		"Topics": " mpi"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "INCF",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "PEcAn Project",
+		"Tech Stack": "\"r",
+		"Topics": " docker"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "GNU Octave",
+		"Tech Stack": "\"c++",
+		"Topics": " hg\""
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "ArduPilot",
+		"Tech Stack": "\"python",
+		"Topics": " lua"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "Public Lab",
+		"Tech Stack": "\"javascript",
+		"Topics": " ruby on rails\""
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "sktime",
+		"Tech Stack": "\"python",
+		"Topics": " github"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "mlpack",
+		"Tech Stack": "\"c++",
+		"Topics": " C++ template metaprogramming\""
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "National Resource for Network Biology (NRNB)",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "Cuneiform Digital Library Initiative (CDLI)",
+		"Tech Stack": "\"mysql",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "MDAnalysis",
+		"Tech Stack": "\"python",
+		"Topics": " cython"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "52°North Spatial Information Research GmbH",
+		"Tech Stack": "\"javascript",
+		"Topics": " android"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "CGAL Project",
+		"Tech Stack": "\"c++",
+		"Topics": " qt\""
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "BeagleBoard.org",
+		"Tech Stack": "\"linux",
+		"Topics": " fpga"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "Open Bioinformatics Foundation (OBF)",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "CERN-HSF",
+		"Tech Stack": "\"python",
+		"Topics": " c/c++"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "CircuitVerse.org",
+		"Tech Stack": "\"javascript",
+		"Topics": " rails"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "Semi Technologies",
+		"Tech Stack": "\"python",
+		"Topics": " machine learning"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "Open Chemistry",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "Global Alliance for Genomics and Health",
+		"Tech Stack": "\"python",
+		"Topics": " postgresql"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "MBDyn",
+		"Tech Stack": "\"python",
+		"Topics": " c++\""
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "The ns-3 Network Simulator Project",
+		"Tech Stack": "\"python",
+		"Topics": " django"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "Center for Research in Open Source Software (CROSS)",
+		"Tech Stack": "\"python",
+		"Topics": " c/c++"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "TensorFlow",
+		"Tech Stack": "\"machine learning",
+		"Topics": " tensorflow"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "Internet Health Report",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "Orcasound",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "NumFOCUS",
+		"Tech Stack": "\"python",
+		"Topics": " c++"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "SymPy",
+		"Tech Stack": "\"python",
+		"Topics": " numpy"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "RTEMS Project",
+		"Tech Stack": "\"python",
+		"Topics": " c/c++"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "LibreCube Initiative",
+		"Tech Stack": "\"python",
+		"Topics": " mongodb"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "cBioPortal for Cancer Genomics",
+		"Tech Stack": "\"mysql",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "Open Genome Informatics",
+		"Tech Stack": "\"python",
+		"Topics": " mysql"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "LibreHealth",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "MZmine",
+		"Tech Stack": "\"java",
+		"Topics": " javafx\""
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "GeomScale",
+		"Tech Stack": "\"python",
+		"Topics": " c++"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "GNU Radio",
+		"Tech Stack": "\"python",
+		"Topics": " c++"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "Genome Assembly and Annotation",
+		"Tech Stack": "\"python",
+		"Topics": " mysql"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "RADAR-base",
+		"Tech Stack": "\"java",
+		"Topics": " kotlin"
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "IOOS",
+		"Tech Stack": "\"python",
+		"Topics": " ocean science\""
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "Ste||ar group",
+		"Tech Stack": "\"c++",
+		"Topics": " hpc\""
+	},
+	{
+		"Field": "Science and medicine",
+		"Name of organisation": "GNSS-SDR",
+		"Tech Stack": "\"c",
+		"Topics": " c++"
+	},
+	{
+		"Field": "Security",
+		"Name of organisation": "SCoRe Lab",
+		"Tech Stack": "\"python",
+		"Topics": " java"
+	},
+	{
+		"Field": "Security",
+		"Name of organisation": "coreboot",
+		"Tech Stack": "\"c",
+		"Topics": " assembly"
+	},
+	{
+		"Field": "Security",
+		"Name of organisation": "OWASP Foundation",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Security",
+		"Name of organisation": "Metasploit",
+		"Tech Stack": "\"c",
+		"Topics": " python"
+	},
+	{
+		"Field": "Security",
+		"Name of organisation": "libssh",
+		"Tech Stack": "\"c",
+		"Topics": " ssh\""
+	},
+	{
+		"Field": "Security",
+		"Name of organisation": "AFLplusplus",
+		"Tech Stack": "\"llvm",
+		"Topics": " rust"
+	},
+	{
+		"Field": "Security",
+		"Name of organisation": "Rizin",
+		"Tech Stack": "\"c",
+		"Topics": " python"
+	},
+	{
+		"Field": "Security",
+		"Name of organisation": "AboutCode",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Security",
+		"Name of organisation": "The Tor Project",
+		"Tech Stack": "\"c",
+		"Topics": " python"
+	},
+	{
+		"Field": "Security",
+		"Name of organisation": "Casbin",
+		"Tech Stack": "\"javascript",
+		"Topics": " java"
+	},
+	{
+		"Field": "Security",
+		"Name of organisation": "LEAP Encryption Access Project",
+		"Tech Stack": "\"java",
+		"Topics": " golang"
+	},
+	{
+		"Field": "Security",
+		"Name of organisation": "The Honeynet Project",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Social and communication",
+		"Name of organisation": "Drupal Association",
+		"Tech Stack": "\"mysql",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Social and communication",
+		"Name of organisation": "Public Lab",
+		"Tech Stack": "\"javascript",
+		"Topics": " ruby on rails\""
+	},
+	{
+		"Field": "Social and communication",
+		"Name of organisation": "rocket.chat",
+		"Tech Stack": "\"javascript",
+		"Topics": " raspberry pi"
+	},
+	{
+		"Field": "Social and communication",
+		"Name of organisation": "XWiki",
+		"Tech Stack": "\"javascript",
+		"Topics": " java"
+	},
+	{
+		"Field": "Social and communication",
+		"Name of organisation": "Joplin",
+		"Tech Stack": "\"javascript",
+		"Topics": " react"
+	},
+	{
+		"Field": "Social and communication",
+		"Name of organisation": "AOSSIE",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Social and communication",
+		"Name of organisation": "Zulip",
+		"Tech Stack": "\"python",
+		"Topics": " django"
+	},
+	{
+		"Field": "Social and communication",
+		"Name of organisation": "Jitsi",
+		"Tech Stack": "\"javascript",
+		"Topics": " java"
+	},
+	{
+		"Field": "Social and communication",
+		"Name of organisation": "Matrix.org",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Social and communication",
+		"Name of organisation": "The Palisadoes Foundation",
+		"Tech Stack": "\"mongodb",
+		"Topics": " node.js"
+	},
+	{
+		"Field": "Social and communication",
+		"Name of organisation": "XMPP Standards Foundation",
+		"Tech Stack": "\"javascript",
+		"Topics": " java"
+	},
+	{
+		"Field": "Web",
+		"Name of organisation": "omegaUp",
+		"Tech Stack": "\"python",
+		"Topics": " mysql"
+	},
+	{
+		"Field": "Web",
+		"Name of organisation": "Django Software Foundation",
+		"Tech Stack": "\"python",
+		"Topics": " django\""
+	},
+	{
+		"Field": "Web",
+		"Name of organisation": "Ruby",
+		"Tech Stack": "\"ruby on rails",
+		"Topics": " ruby"
+	},
+	{
+		"Field": "Web",
+		"Name of organisation": "Drupal Association",
+		"Tech Stack": "\"mysql",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Web",
+		"Name of organisation": "Open Technologies Alliance - GFOSS",
+		"Tech Stack": "\"javascript",
+		"Topics": " c/c++"
+	},
+	{
+		"Field": "Web",
+		"Name of organisation": "MetaBrainz Foundation Inc",
+		"Tech Stack": "\"python",
+		"Topics": " react"
+	},
+	{
+		"Field": "Web",
+		"Name of organisation": "Submitty",
+		"Tech Stack": "\"python",
+		"Topics": " postgresql"
+	},
+	{
+		"Field": "Web",
+		"Name of organisation": "Joomla!",
+		"Tech Stack": "\"mysql",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Web",
+		"Name of organisation": "Neutralinojs",
+		"Tech Stack": "\"c",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Web",
+		"Name of organisation": "Plone Foundation",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Web",
+		"Name of organisation": "The Tor Project",
+		"Tech Stack": "\"c",
+		"Topics": " python"
+	},
+	{
+		"Field": "Web",
+		"Name of organisation": "FOSSology",
+		"Tech Stack": "\"python",
+		"Topics": " postgresql"
+	},
+	{
+		"Field": "Web",
+		"Name of organisation": "Wikimedia Foundation",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Web",
+		"Name of organisation": "XWiki",
+		"Tech Stack": "\"javascript",
+		"Topics": " java"
+	},
+	{
+		"Field": "Web",
+		"Name of organisation": "Wagtail",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Web",
+		"Name of organisation": "PostgreSQL",
+		"Tech Stack": "\"c",
+		"Topics": " python"
+	},
+	{
+		"Field": "Web",
+		"Name of organisation": "Casbin",
+		"Tech Stack": "\"javascript",
+		"Topics": " java"
+	},
+	{
+		"Field": "Web",
+		"Name of organisation": "Global Alliance for Genomics and Health",
+		"Tech Stack": "\"python",
+		"Topics": " postgresql"
+	},
+	{
+		"Field": "Web",
+		"Name of organisation": "OpenWISP",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Web",
+		"Name of organisation": "Jitsi",
+		"Tech Stack": "\"javascript",
+		"Topics": " java"
+	},
+	{
+		"Field": "Web",
+		"Name of organisation": "Chromium",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Web",
+		"Name of organisation": "Electron",
+		"Tech Stack": "\"javascript",
+		"Topics": " node.js"
+	},
+	{
+		"Field": "Web",
+		"Name of organisation": "JBoss Community",
+		"Tech Stack": "\"java",
+		"Topics": " rust"
+	},
+	{
+		"Field": "Other",
+		"Name of organisation": "Python Software Foundation",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Other",
+		"Name of organisation": "MIT App Inventor",
+		"Tech Stack": "\"javascript",
+		"Topics": " java"
+	},
+	{
+		"Field": "Other",
+		"Name of organisation": "ScummVM",
+		"Tech Stack": "\"opengl",
+		"Topics": " lua"
+	},
+	{
+		"Field": "Other",
+		"Name of organisation": "MoveIt",
+		"Tech Stack": "\"ros",
+		"Topics": " c++\""
+	},
+	{
+		"Field": "Other",
+		"Name of organisation": "Learning Equality",
+		"Tech Stack": "\"python",
+		"Topics": " javascript"
+	},
+	{
+		"Field": "Other",
+		"Name of organisation": "OSGeo (Open Source Geospatial Foundation)",
+		"Tech Stack": "\"c",
+		"Topics": " python"
+	},
+	{
+		"Field": "Other",
+		"Name of organisation": "Micro Electronics Research Lab - UITU",
+		"Tech Stack": "\"RISCV",
+		"Topics": " Processor"
+	},
+	{
+		"Field": "Other",
+		"Name of organisation": "JdeRobot",
+		"Tech Stack": "\"python",
+		"Topics": " ros"
+	},
+	{
+		"Field": "Other",
+		"Name of organisation": "FOSSology",
+		"Tech Stack": "\"python",
+		"Topics": " postgresql"
+	},
+	{
+		"Field": "Other",
+		"Name of organisation": "PowerDNS",
+		"Tech Stack": "\"c++",
+		"Topics": " DNS\""
+	},
+	{
+		"Field": "Other",
+		"Name of organisation": "OpenVINO Toolkit",
+		"Tech Stack": "\"python",
+		"Topics": " c++"
+	},
+	{
+		"Field": "Other",
+		"Name of organisation": "syslog-ng",
+		"Tech Stack": "\"c",
+		"Topics": " python"
+	},
+	{
+		"Field": "Other",
+		"Name of organisation": "Center for Research in Open Source Software (CROSS)",
+		"Tech Stack": "\"python",
+		"Topics": " c/c++"
+	},
+	{
+		"Field": "Other",
+		"Name of organisation": "SPDX",
+		"Tech Stack": "\"python",
+		"Topics": " java"
+	},
+	{
+		"Field": "Other",
+		"Name of organisation": "CHAOSS",
+		"Tech Stack": "\"python",
+		"Topics": " postgresql"
+	},
+	{
+		"Field": "Other",
+		"Name of organisation": "RoboComp",
+		"Tech Stack": "\"python",
+		"Topics": " opencv"
+	},
+	{
+		"Field": "Other",
+		"Name of organisation": "Apache Software Foundation",
+		"Tech Stack": "\"c",
+		"Topics": " java"
+	},
+	{
+		"Field": "Other",
+		"Name of organisation": "FRRouting",
+		"Tech Stack": "\"c",
+		"Topics": " linux"
+	},
+	{
+		"Field": "Other",
+		"Name of organisation": "Free and Open Source Silicon Foundation",
+		"Tech Stack": "\"verilog",
+		"Topics": " risc-v"
+	},
+	{
+		"Field": "Other",
+		"Name of organisation": "GNSS-SDR",
+		"Tech Stack": "\"c",
+		"Topics": " c++"
+	},
+	{
+		"Field": ""
+	}
+]
